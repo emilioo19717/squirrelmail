@@ -9,11 +9,11 @@ global $version;
 $config_version = '1.4.0';
 $config_use_color = 2;
 
-$org_name      = "Teszt";
+$org_name      = "SquirrelMail";
 $org_logo      = SM_PATH . 'images/sm_logo.png';
 $org_logo_width  = '308';
 $org_logo_height = '111';
-$org_title     = "Teszt $version";
+$org_title     = "SquirrelMail $version";
 $signout_page  = '';
 $frame_top     = '_top';
 

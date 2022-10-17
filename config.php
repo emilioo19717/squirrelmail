@@ -27,7 +27,7 @@ $squirrelmail_default_language = 'hu_HU';
 $default_charset       = 'utf-8';
 $lossy_encoding        = false;
 
-$domain                 = 'dualis.andrews';
+$domain                 = 'web.mail';
 $imapServerAddress      = 'dovecot';
 $imapPort               = 143;
 $useSendmail            = false;
